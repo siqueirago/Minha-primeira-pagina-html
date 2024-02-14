@@ -2,7 +2,7 @@
 # Formação HTML Web Developer da DIO
 ## Meu Primeiro Projeto em HTML
 
-Este é o meu primeiro projeto em HTML, uma jornada desafiodora para de aprender
+Este é o meu primeiro projeto em HTML, uma jornada desafiodora para aprender
 e experimentar com a linguagem de marcação mais fundamental da web. O objetivo
 deste projeto foi aplicar os conceitos básicos
 que aprendi sobre HTML para criar uma página da web simples, mas funcional.
