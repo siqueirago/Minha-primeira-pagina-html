@@ -1,4 +1,4 @@
-
+9
 # Formação HTML Web Developer da DIO
 ## Meu Primeiro Projeto em HTML
 
@@ -20,7 +20,7 @@ Neste projeto, criei uma página da web que inclui os seguintes elementos básic
 
 * Listas: Utilizei listas ordenadas e não ordenadas para organizar informações de forma clara e concisa.
   ## Aprendizado
-  Aprendi os conceitos básicos em HTML como definis a estrutura da uma página Web, incluir texto e parágrafos, links, inserir imagens,
+  Aprendi os conceitos básicos em HTML como definir a estrutura da uma página Web, incluir texto e parágrafos, links, inserir imagens,
   listas ordenadas e listas não ordenadas e ect. Adqueri uma compreensão mais profunda de como o HTML é usado para estruturar o conteúdo da web.
   ## Próximos Passos
   Este é apenas o começo da minha jornada em desenvolvimento web. Nos próximos projetos, pretendo explorar mais a fundo o HTML, além de
