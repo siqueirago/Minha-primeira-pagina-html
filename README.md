@@ -10,7 +10,7 @@ que aprendi sobre HTML para criar uma página da web simples, mas funcional.
 ## Conteúdo do Projeto
 Neste projeto, criei uma página da web que inclui os seguintes elementos básicos:
 
-* Estrutura HTML: Utilizei tags HTML para definir a estrutura da página, incluindo cabeçalho, corpo e rodapé.
+* Estrutura HTML: Utilizei tags HTML para definir a estrutura da página, incluindo cabeçalho e corpo.
 
 * Textos e Parágrafos: Incluí textos e parágrafos para fornecer informações e conteúdo relevante.
 
